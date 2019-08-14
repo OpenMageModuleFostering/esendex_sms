@@ -19,7 +19,7 @@ Copyright (C) 2015 Esendex Ltd.
 <config>
     <modules>
         <Esendex_Sms>
-            <version>0.1.0</version>
+            <version>1.0.0</version>
         </Esendex_Sms>
     </modules>
     <global>
