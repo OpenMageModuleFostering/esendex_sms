@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Esendex_SMS",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "",
+    "description": "Esendex SMS",
+    "authors": [
+    {
+        "name": "Esendex",
+        "email": "esendex@esendex.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
