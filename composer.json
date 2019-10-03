@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Esendex_SMS",
+    "name": "openmage-module-fostering\/esendex_sms",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
